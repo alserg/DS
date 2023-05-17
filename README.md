@@ -37,6 +37,8 @@
 **Использовал:** Python, Pandas, Seaborn, Matplotlib, NumPy, Sklearn
 
 
+## Дополнительные задачи/проекты
+
 ### [Практические задачи по SQL](Практические%20задачи%20по%20SQL)
 
 **Направления:** Data Analyst, Data Engineer

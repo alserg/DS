@@ -41,7 +41,7 @@
 
 ## Сведения
 
-**Смотреть проект:** [4_prognoz_zakazov_taxi.ipynb](4_prognoz_zakazov_taxi.ipynb)
+**Смотреть проект:** [prognoz_zakazov_taxi.ipynb](prognoz_zakazov_taxi.ipynb)
 
 **Направления:** Машинное обучение, Временные ряды, Регрессия
 

@@ -51,7 +51,7 @@
 
 ## Сведения
 
-**Смотреть проект:** [2_issledovatelsky_analiz.ipynb](2_issledovatelsky_analiz.ipynb)
+**Смотреть проект:** [issledovatelsky_analiz.ipynb](issledovatelsky_analiz.ipynb)
 
 **Направления:** Data Analyst, Маркетинг-аналитик, Fraud-аналитик
 

@@ -44,7 +44,7 @@
 
 ## Сведения
 
-**Смотреть проект:** [1_predobrabotka.ipynb](1_predobrabotka.ipynb)
+**Смотреть проект:** [predobrabotka.ipynb](predobrabotka.ipynb)
 
 **Направления:** Data Analyst, Финансовый аналитик
 

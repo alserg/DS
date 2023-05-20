@@ -46,7 +46,7 @@
 
 ## Сведения
 
-**Смотреть проект:** [3_prognozirovanie_ottoka_klientov.ipynb](3_prognozirovanie_ottoka_klientov.ipynb)
+**Смотреть проект:** [prognozirovanie_ottoka_klientov.ipynb](prognozirovanie_ottoka_klientov.ipynb)
 
 **Направления:** Машинное обучение, Классификация
 

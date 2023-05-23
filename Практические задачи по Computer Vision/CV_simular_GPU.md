@@ -385,6 +385,196 @@ pd.set_option('display.max_colwidth', None); pd.read_csv('submission.csv')
 
 
 
+## Результаты (оригинал - похожие):
+
+
+```python
+for mid in range(10):
+    image = mpimg.imread(path+'/'+submission.iloc[mid]['filename'])
+    plt.imshow(image);
+
+    fig = plt.figure(figsize=(12,10))
+    i=0;
+    for ipath in submission.iloc[mid]['ranking'].split(' '):
+        fpath = path+'/'+ipath
+        image = mpimg.imread(fpath)
+        fig.add_subplot(1, 6, i+1)
+        plt.imshow(image)
+        plt.xticks([]); plt.yticks([]); plt.tight_layout(); i+=1
+    plt.show(); print(); print('*'*50); print()
+```
+
+
+    
+![png](data/simular/output_17_0.png)
+    
+
+
+
+    
+![png](data/simular/output_17_1.png)
+    
+
+
+    
+    **************************************************
+    
+    
+
+
+    
+![png](data/simular/output_17_3.png)
+    
+
+
+
+    
+![png](data/simular/output_17_4.png)
+    
+
+
+    
+    **************************************************
+    
+    
+
+
+    
+![png](data/simular/output_17_6.png)
+    
+
+
+
+    
+![png](data/simular/output_17_7.png)
+    
+
+
+    
+    **************************************************
+    
+    
+
+
+    
+![png](data/simular/output_17_9.png)
+    
+
+
+
+    
+![png](data/simular/output_17_10.png)
+    
+
+
+    
+    **************************************************
+    
+    
+
+
+    
+![png](data/simular/output_17_12.png)
+    
+
+
+
+    
+![png](data/simular/output_17_13.png)
+    
+
+
+    
+    **************************************************
+    
+    
+
+
+    
+![png](data/simular/output_17_15.png)
+    
+
+
+
+    
+![png](data/simular/output_17_16.png)
+    
+
+
+    
+    **************************************************
+    
+    
+
+
+    
+![png](data/simular/output_17_18.png)
+    
+
+
+
+    
+![png](data/simular/output_17_19.png)
+    
+
+
+    
+    **************************************************
+    
+    
+
+
+    
+![png](data/simular/output_17_21.png)
+    
+
+
+
+    
+![png](data/simular/output_17_22.png)
+    
+
+
+    
+    **************************************************
+    
+    
+
+
+    
+![png](data/simular/output_17_24.png)
+    
+
+
+
+    
+![png](data/simular/output_17_25.png)
+    
+
+
+    
+    **************************************************
+    
+    
+
+
+    
+![png](data/simular/output_17_27.png)
+    
+
+
+
+    
+![png](data/simular/output_17_28.png)
+    
+
+
+    
+    **************************************************
+    
+    
+
+
 ```python
 
 ```
